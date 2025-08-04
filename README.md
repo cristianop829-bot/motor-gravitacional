@@ -11,8 +11,10 @@ com base nas informações disponíveis e registros públicos, Cristiano Pinheir
 
 🧠 Perfil do Inventor
 
-Cristiano Daros Pinheiro 📍 Brasil  🎥 Criador de animações 3D 
-🛠️ Designer de tecnologia ética 🚀 Visionário 
+Cristiano Daros Pinheiro 📍 Brasil
+  
+🎥 Criador de animações 3D 
+🛠️ Designer de tecnologia ética
 
 🔗 Instagram profissional 🔗 Registro oficial no X 🔗 Portfólio 3D no Facebook
 
