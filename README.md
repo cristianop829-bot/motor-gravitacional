@@ -19,20 +19,37 @@ Cristiano Daros Pinheiro 📍 Brasil
 🔗 Instagram profissional 🔗 Registro oficial no X 🔗 Portfólio 3D no Facebook
 
 ⚙️ Invenção: Motor Gravitacional
-📅 Criado e divulgado em 2022 📌 Registro público e transparente no X
+
+📅 Criado e divulgado em 2022 
+
+📌 Registro público e transparente no X
 
 Princípio	Descrição
 Campo Magnético	Base para movimento contínuo
 Nikola Tesla	Inspiração em energia livre
 Engenharias do Passado	Saberes esquecidos aplicados
 Gravidade Funcional	Aproveitamento da força natural
+
 🌍 Aplicações Potenciais
-🚗 Transporte limpo e autossustentável 🛡️ Defesa planetária com energia não destrutiva 
+
+🚗 Transporte limpo e autossustentável 
+
+🛡️ Defesa planetária com energia não destrutiva 
+
 🛰️ Propulsão espacial sem combustíveis fósseis
 
+
 💡 Por que investir?
-✅ Inovação original e disruptiva 🌱 Compromisso com o planeta 
-📜 Autoria registrada e pública 🌐 Visão global e ética científica
+
+✅ Inovação original e disruptiva 
+
+🌱 Compromisso com o planeta 
+
+📜 Autoria registrada e pública 
+
+🌐 Visão global e ética científica
+
+
 
 🤝 Cristiano busca:
 Investidores com visão de futuro
