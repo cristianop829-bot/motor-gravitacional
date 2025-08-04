@@ -8,8 +8,11 @@ com base nas informações disponíveis e registros públicos, Cristiano Pinheir
 🛠️ Base tecnológica: Campo magnético, Nikola Tesla, engenharias do passado, gravidade funcional
 
 🌍 Aplicações: Transporte limpo, defesa planetária, propulsão espacial
+
 🧠 Perfil do Inventor
-Cristiano Daros Pinheiro 📍 Brasil | 🌐 Mundo 🎥 Criador de vídeos e animações 3D 🛠️ Designer de tecnologia ética 🚀 Visionário planetário
+
+Cristiano Daros Pinheiro 📍 Brasil  🎥 Criador de animações 3D 
+🛠️ Designer de tecnologia ética 🚀 Visionário 
 
 🔗 Instagram profissional 🔗 Registro oficial no X 🔗 Portfólio 3D no Facebook
 
@@ -22,10 +25,12 @@ Nikola Tesla	Inspiração em energia livre
 Engenharias do Passado	Saberes esquecidos aplicados
 Gravidade Funcional	Aproveitamento da força natural
 🌍 Aplicações Potenciais
-🚗 Transporte limpo e autossustentável 🛡️ Defesa planetária com energia não destrutiva 🛰️ Propulsão espacial sem combustíveis fósseis
+🚗 Transporte limpo e autossustentável 🛡️ Defesa planetária com energia não destrutiva 
+🛰️ Propulsão espacial sem combustíveis fósseis
 
 💡 Por que investir?
-✅ Inovação original e disruptiva 🌱 Compromisso com o planeta 📜 Autoria registrada e pública 🌐 Visão global e ética científica
+✅ Inovação original e disruptiva 🌱 Compromisso com o planeta 
+📜 Autoria registrada e pública 🌐 Visão global e ética científica
 
 🤝 Cristiano busca:
 Investidores com visão de futuro
