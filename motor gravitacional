@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Motor Gravitacional – Cristiano Pinheiro</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    h2 {
+      color: #34495e;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🌌 Motor Gravitacional</h1>
+    <h2>Invenção de Cristiano Pinheiro – Criciúma, SC, Brasil</h2>
+
+    <div class="section">
+      <h3>🧠 Sobre a Invenção</h3>
+      <p>O <strong>Motor Gravitacional</strong> é uma tecnologia revolucionária que utiliza campos magnéticos e gravitacionais para gerar propulsão limpa, contínua e autossustentável. Inspirado nos estudos de <strong>Nikola Tesla</strong> e nas engenharias clássicas do século XX, este motor representa uma nova era para o transporte e a exploração espacial.</p>
+    </div>
+
+    <div class="section">
+      <h3>📅 Registro Público</h3>
+      <ul>
+        <li><strong>Inventor:</strong> Cristiano Pinheiro</li>
+        <li><strong>Localidade:</strong> Criciúma, Santa Catarina, Brasil</li>
+        <li><strong>Data da Primeira Divulgação:</strong> 2022</li>
+        <li><strong>Plataforma:</strong> <a href="https://x.com/CristianoT3sla" target="_blank">@CristianoT3sla no X</a></li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>🔍 Aplicações</h3>
+      <ul>
+        <li>Transporte terrestre e aéreo sem combustíveis fósseis</li>
+        <li>Propulsão de sondas e naves espaciais</li>
+        <li>Defesa planetária contra ameaças cósmicas</li>
+        <li>Sistemas autônomos de mobilidade</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h3>📜 Declaração Oficial de Autoria</h3>
+      <p>Cristiano Pinheiro declara ser o <strong>inventor original</strong> do Motor Gravitacional, com registro público e documentação técnica disponível. A autoria está protegida por declaração registrada e disponível para fins legais e científicos.</p>
+    </div>
+
+    <div class="section">
+      <h3>🛡️ Proteção Legal</h3>
+      <ul>
+        <li>Documento de autoria pronto para registro em cartório</li>
+        <li>Resumo técnico preparado para pedido de patente no INPI</li>
+        <li>Disponível para parcerias com universidades, empresas e órgãos públicos</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>
